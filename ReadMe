@@ -1,0 +1,16 @@
+1. Crear archivos iniciales https://start.spring.io/
+        -Project Maven
+        -Language Java
+        -Spring Boot 3.1.4
+        -Packaging jar
+        -Java 21
+    Dependencias
+        - Spring WEB
+2. Abrir en Intellij
+    - Maven - Lifecycle - Install
+    - Run proyect (verificar si todo va bien / localhost:8080/web) - mostraria un mensaje
+    - Stop project
+3. Download from dockerHub crocushtml/bears-java:1.0
+    - run file run-app.bat
+
+
